@@ -1,0 +1,5 @@
+<test1 />
+<h1 prop="value">Hello { name }</h1>
+@for (const card for cards)
+<p>card id #{ card.id }</p>
+@end

@@ -1,0 +1,7 @@
+@if (user != null)
+  <h1 prop="value" prop2={user.name}>Hello { user.name } { age }, How you are</h1>
+  <ab text="Hello World" />
+  &lt;p&gt;Ola&lt;/p&gt;
+  <br />
+  <p>Pretty Good</p>
+@end
